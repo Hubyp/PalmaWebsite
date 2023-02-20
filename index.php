@@ -151,7 +151,7 @@
                 </div>
             </div>
             <footer>
-                <p>all rights reserved for <a href="https://www.instagram.com/1._.a7med._.1">A7MED</a></p>
+                <p>all rights reserved for <a href=""></a></p>
             </footer>
     </body>
 </html>
